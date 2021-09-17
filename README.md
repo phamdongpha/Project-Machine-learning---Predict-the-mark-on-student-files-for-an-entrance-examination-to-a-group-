@@ -1,6 +1,6 @@
 # Project Machine Learning : Predict the mark on student files for an entrance examination to a group of engineering schools
 
-Report and code written in French by PHAM Dong Pha and MENARD June Camille
+Report and code written in French by PHAM Dong Pha
 
 Problématique 
 
